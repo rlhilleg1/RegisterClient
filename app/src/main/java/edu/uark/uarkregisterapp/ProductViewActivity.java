@@ -1,4 +1,5 @@
 package edu.uark.uarkregisterapp;
+// Initial commit, 2.6
 
 import android.content.DialogInterface;
 import android.os.AsyncTask;
